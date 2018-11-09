@@ -4,7 +4,7 @@
 # Connect-Four Player class 
 #
 
-from ps10pr1 import Board
+from Connect_Four_1 import Board
 
 
 class Player:
