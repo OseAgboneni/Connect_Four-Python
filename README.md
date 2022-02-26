@@ -11,4 +11,4 @@ In the shell, call the "connect_four(player1, player2)" function.
   
 KNOWN ISSUES:
 -The game will throw an error and exit if an improper parameter is passed, but once the game is started up, it will keep going until someone wins or the board gets filled. 
--One other thing: in order to not have the AI games happen in the blink of an eye, I put a 2 second time pause after both players' turns. It'll have that pause even when 2 human players are playing.
+-One other thing: in order to not have the AI games happen in the blink of an eye, I put a 2 second time pause after Player 1's turn. It'll have that pause even when 2 human players are playing.
